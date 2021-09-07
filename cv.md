@@ -1,17 +1,17 @@
 # Curriculum Vitae
 
-## Dr Nathan TM Huneke, MBChB(Hons) MRes MRCPsych
+### Dr Nathan TM Huneke, MBChB(Hons) MRes MRCPsych
 
 [Email](n.huneke@soton.ac.uk)
 [Twitter](https://twitter.com/nathanhuneke)
 [Github](https://github.com/nhuneke)
 
-## Current Positions 
+### Current Positions 
 2019 - current **MRC Clinical Research Training Fellow**, *University Dept of Psychiatry, University of Southampton*
 
 2019 - current **Honorary SpR in General Adult Psychiatry**, *Southern Health NHS Foundation Trust*
 
-## Formal Education and Examinations
+### Formal Education and Examinations
 
 2019 - current **PhD in Clinical Neurosciences**, *University of Southampton*
 
@@ -23,7 +23,7 @@
 2011 - 2012 **Intercalated MRes in Medical Sciences**, *University of Manchester*
 - Passed with Distinction
 
-## Awards and Honours
+### Awards and Honours
 
 2020 **Winner of the 'Early-stage PhD' 3-minute Thesis Competition**, *NIHR Maudsley BRC Trainees' Conference*
 - See the presentation [here](https://www.maudsleybrc.nihr.ac.uk/training/trainees-conference-2020/)
@@ -36,7 +36,7 @@
 
 2012 **Intellectual Disability Forum Student Prize**, *The Royal Society of Medicine*
 
-## Grants and Fellowship Awards
+### Grants and Fellowship Awards
 
 2019 - current **MRC Clinical Research Training Fellowship**, personal award (£251,153, MR/T000902/1)
 
