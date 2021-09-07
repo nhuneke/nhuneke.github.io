@@ -5,7 +5,6 @@
 [Email](n.huneke@soton.ac.uk)
 [Twitter](https://twitter.com/nathanhuneke)
 [Github](https://github.com/nhuneke)
-------------------------------------------------
 
 ## Current Positions 
 2019 - current **MRC Clinical Research Training Fellow**, *University Dept of Psychiatry, University of Southampton*
