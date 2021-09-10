@@ -5,6 +5,7 @@
 [Email](n.huneke@soton.ac.uk)
 [Twitter](https://twitter.com/nathanhuneke)
 [Github](https://github.com/nhuneke)
+[Publications](https://nhuneke.github.io/publications)
 
 ### Current Positions 
 2019 - current **MRC Clinical Research Training Fellow**, *University Dept of Psychiatry, University of Southampton*
@@ -46,4 +47,27 @@
 
 *"The Placebo Response in Trials of Anxiety and Depression"*
 
+### Memberships
+- Member of the British Association for Psychopharmacology (BAP)
+- Member of the Royal College of Psychiatrists (MRCPsych)
+- Registered medical practitioner with the General Medical Council (GMC, 7408947)
 
+### Academic Service
+
+#### University of Southampton
+
+#### Southampton Clinical Academic Training Scheme (SoCATS)
+
+#### Departmental Service
+
+#### Grant Reviewer
+
+#### Ad-hoc reviewer
+
+### Teaching and Supervision
+
+#### Lecturing
+
+#### Supervision
+
+#### Curriculum Development
