@@ -54,20 +54,20 @@
 
 ### Academic Service
 
-#### University of Southampton
+##### University of Southampton
 
-#### Southampton Clinical Academic Training Scheme (SoCATS)
+##### Southampton Clinical Academic Training Scheme (SoCATS)
 
-#### Departmental Service
+##### Departmental Service
 
-#### Grant Reviewer
+##### Grant Reviewer
 
-#### Ad-hoc reviewer
+##### Ad-hoc reviewer
 
 ### Teaching and Supervision
 
-#### Lecturing
+##### Lecturing
 
-#### Supervision
+##### Supervision
 
-#### Curriculum Development
+##### Curriculum Development
