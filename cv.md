@@ -41,3 +41,9 @@
 2019 - current **MRC Clinical Research Training Fellowship**, personal award (£251,153, MR/T000902/1)
 
 *"Investigating the Placebo Response in Psychiatry"*
+
+2016 - 2018 **RMC ACF Project Funding, Faculty of Medicine, University of Southampton**, personal award (£9500)
+
+*"The Placebo Response in Trials of Anxiety and Depression"*
+
+
