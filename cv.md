@@ -2,7 +2,7 @@
 
 ### Nathan TM Huneke, MBChB(Hons) MRes MRCPsych
 
-[Email](n.huneke@soton.ac.uk)
+[Email](mailto:n.huneke@soton.ac.uk)
 [Twitter](https://twitter.com/nathanhuneke)
 [Github](https://github.com/nhuneke)
 [Publications](https://nhuneke.github.io/publications)
