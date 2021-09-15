@@ -50,29 +50,43 @@
 ### External Invited Talks
 
 2021 **Towards Improved Translation of Treatments for Affective and Anxiety Disorders: Placebo Effects and Experimental Medicine Models.** *BAP Summer Meeting, Online.*
+
 2021 **A Modified Trier Social Stress Test Using Videoconferencing Software.** *University of Southampton Faculty of Medicine Conference, Online.*
+
 2019 **Why We Need More Research into the Placebo Response in Psychiatry.** *Southampton Psychiatry Academic Meeting, Southampton.*
+
 2019 **fMRI Correlates of Peak Response in the 7.5% CO2 Inhalational Model of Generalised Anxiety: A Pilot Study.** *RCPsych International Congress, London.*
+
 2017 **Functional Neuroimaging of the Placebo Response in Anxiety and Depression: A Systematic Review.** *Faculty of General Adult Psychiatry Annual Conference, Newcastle.*
+
 2013 **Developing a System for Effective Student Representation in a Large Medical School.** *AMEE International Conference, Prague, Czech Republic.*
 
 ### Research Supervision
 
 2021 – current Undergraduate: Ishmaam Chowdhury (BMedSci 3rd Year Project, University of Southampton). *Structural imaging markers of response to the 7.5% CO2 inhalational model of generalised anxiety.*
+
 2021 – current Undergraduate: Yasmin Hussein (BMedSci 3rd Year Project, University of Southampton). *Resting functional imaging markers of response to the 7.5% CO2 inhalational model of generalised anxiety.*
+
 2020 – 2021 Undergraduate: Ireayo Shonibare (BMedSci 3rd Year Project, University of Southampton). *Is placebo anxiolysis evident in healthy volunteers with generalised anxiety symptoms induced by 7.5% CO2 inhalation.*
+
 2020 – 2021	Undergraduate: Alexander McEwan (BMedSci 3rd Year Project, University of Southampton). *Inducing social anxiety symptoms with a novel online paradigm.*
 
 ### Academic Service
 
 ##### Ad-hoc Peer Review
-Psychological Medicine; Acta Psychiatrica Scandinavica; European Neuropsychopharmacology; International Clinical Psychopharmacology; Journal of Psychopharmacology; Brain and Behavior; Human Psychopharmacology: Clinical and Experimental
+- Psychological Medicine
+- Acta Psychiatrica Scandinavica
+- European Neuropsychopharmacology
+- International Clinical Psychopharmacology
+- Journal of Psychopharmacology
+- Brain and Behavior
+- Human Psychopharmacology: Clinical and Experimental
 
 ##### Grant Review
-United States-Israel Binational Science Foundation
+- United States-Israel Binational Science Foundation
 
 ##### Departmental Service
-Peer review of protocols and ethical approval applications
+- Peer review of protocols and ethical approval applications
 
 ### Professional Societies
 - Member of the British Association for Psychopharmacology (BAP)
