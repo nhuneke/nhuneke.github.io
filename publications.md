@@ -10,6 +10,10 @@
 4.	**Huneke NTM**, Brown CA, Burford E, Watson A, Trujillo-Barreto NJ, El-Deredy W, Jones AKP. Experimental Placebo Analgesia Changes Resting-State Alpha Oscillations. PLoS One. 2013; 8(10), e78278
 5.	**Huneke NTM**, Gupta R, Halder N, Chaudhry, N. Difficult decisions: Are intellectually disabled patients given enough information to consent to medical treatment? Journal of Intellectual Disabilities. 2012; 16(4), 265-274.
 
+### Pre-prints
+
+1. **Huneke NTM**, Rowlatt H, Hyde J, McEwan A, Maryan L, Baldwin DS, Garner M. A Modified Trier Social Stress Test to Investigate Social Anxiety using Videoconferencing Software: A Proof-of-Concept study. PsyArXiv. 2021. doi:[10.31234/osf.io/q5rbj](doi:10.31234/osf.io/q5rbj)
+
 ### Reviews
 
 1.	**Huneke NTM**, van der Wee N, Garner M, Baldwin DS. Why we need more research into the placebo response in psychiatry. Psychol Med. 2020;50(14):2317-23.
