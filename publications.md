@@ -12,7 +12,7 @@
 
 ### Pre-prints
 
-1. **Huneke NTM**, Rowlatt H, Hyde J, McEwan A, Maryan L, Baldwin DS, Garner M. A Modified Trier Social Stress Test to Investigate Social Anxiety using Videoconferencing Software: A Proof-of-Concept study. PsyArXiv. 2021. doi:[10.31234/osf.io/q5rbj](doi:10.31234/osf.io/q5rbj)
+1. **Huneke NTM**, Rowlatt H, Hyde J, McEwan A, Maryan L, Baldwin DS, Garner M. A Modified Trier Social Stress Test to Investigate Social Anxiety using Videoconferencing Software: A Proof-of-Concept study. PsyArXiv. 2021. doi:[10.31234/osf.io/q5rbj](https://doi.org/10.31234/osf.io/q5rbj)
 
 ### Reviews
 
