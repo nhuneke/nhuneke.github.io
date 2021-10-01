@@ -4,11 +4,12 @@
 
 ### Original Research
 
-1.	**Huneke NTM**, Broulidakis MJ, Darekar A, Baldwin DS, Garner M. Brain functional connectivity correlates of response in the 7.5% CO2 inhalational model of generalized anxiety disorder: a pilot study. Int J Neuropsychopharmacol. 2020; 23(4), 268-273.
-2.	Walsh AEL, **Huneke NTM**, Brown R, Browning M, Cowen P, Harmer CJ. A dissociation of the acute effects of bupropion on positive emotional processing and reward processing in healthy volunteers. Frontiers in psychiatry. 2018; 9, 482.
-3.	**Huneke NTM**, Walsh AEL, Brown R, Browning M, Harmer CJ. No evidence for an acute placebo effect on emotional processing in healthy volunteers. J Psychopharm. 2017; 31(12), 1578-1587.
-4.	**Huneke NTM**, Brown CA, Burford E, Watson A, Trujillo-Barreto NJ, El-Deredy W, Jones AKP. Experimental Placebo Analgesia Changes Resting-State Alpha Oscillations. PLoS One. 2013; 8(10), e78278
-5.	**Huneke NTM**, Gupta R, Halder N, Chaudhry, N. Difficult decisions: Are intellectually disabled patients given enough information to consent to medical treatment? Journal of Intellectual Disabilities. 2012; 16(4), 265-274.
+1.	**Huneke NTM**, Chamberlain SR, Baldwin DS, Grant JE. Diverse predictors of treatment response to active medication and placebo in gambling disorder. Journal of Psychiatric Research. 2021; 144, 96-101.
+2.	**Huneke NTM**, Broulidakis MJ, Darekar A, Baldwin DS, Garner M. Brain functional connectivity correlates of response in the 7.5% CO2 inhalational model of generalized anxiety disorder: a pilot study. Int J Neuropsychopharmacol. 2020; 23(4), 268-273.
+3.	Walsh AEL, **Huneke NTM**, Brown R, Browning M, Cowen P, Harmer CJ. A dissociation of the acute effects of bupropion on positive emotional processing and reward processing in healthy volunteers. Frontiers in psychiatry. 2018; 9, 482.
+4.	**Huneke NTM**, Walsh AEL, Brown R, Browning M, Harmer CJ. No evidence for an acute placebo effect on emotional processing in healthy volunteers. J Psychopharm. 2017; 31(12), 1578-1587.
+5.	**Huneke NTM**, Brown CA, Burford E, Watson A, Trujillo-Barreto NJ, El-Deredy W, Jones AKP. Experimental Placebo Analgesia Changes Resting-State Alpha Oscillations. PLoS One. 2013; 8(10), e78278
+6.	**Huneke NTM**, Gupta R, Halder N, Chaudhry, N. Difficult decisions: Are intellectually disabled patients given enough information to consent to medical treatment? Journal of Intellectual Disabilities. 2012; 16(4), 265-274.
 
 ### Pre-prints
 
