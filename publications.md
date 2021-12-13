@@ -15,6 +15,10 @@
 
 1. **Huneke NTM**, Rowlatt H, Hyde J, McEwan A, Maryan L, Baldwin DS, Garner M. A Modified Trier Social Stress Test to Investigate Social Anxiety using Videoconferencing Software: A Proof-of-Concept study. PsyArXiv. 2021. doi:[10.31234/osf.io/q5rbj](https://doi.org/10.31234/osf.io/q5rbj)
 
+### Protocols
+
+1. Cinosi E, Adam D, Aslan I, Baldwin D, Chillingsworth K, Enara A, Gale T, Garg K, Garner M, Gordon R, Hall N, **Huneke NTM**, et al. Feasibility and acceptability of transcranial stimulation in obsessive–compulsive symptoms (FEATSOCS): study protocol for a randomised controlled trial of transcranial direct current stimulation (tDCS) in obsessive–compulsive disorder (OCD). Pilot and Feasibility Studies. 2021; 7(1), 1-6.
+
 ### Reviews
 
 1.	**Huneke NTM**, van der Wee N, Garner M, Baldwin DS. Why we need more research into the placebo response in psychiatry. Psychol Med. 2020;50(14):2317-23.
