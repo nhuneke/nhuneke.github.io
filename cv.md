@@ -73,6 +73,9 @@
 
 ### Academic Service
 
+##### Editorial Board Membership
+- European Neuropsychopharmacology
+
 ##### Ad-hoc Peer Review
 - Psychological Medicine
 - Acta Psychiatrica Scandinavica
